@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-codebreaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBreaker518/random-str-msg-codebreaker.git"
+  },
+  "keywords": [],
+  "author": "Diego Perez <diegoperezperez518@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeBreaker518/random-str-msg-codebreaker/issues"
+  },
+  "homepage": "https://github.com/CodeBreaker518/random-str-msg-codebreaker#readme",
+  "bin":{
+    "random-str-msg-codebreaker": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
